@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SuJin%20Oh&fontSize=70) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osjkate&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osjkate&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osjkate&layout=compact&theme=dark)
 
 <!--
