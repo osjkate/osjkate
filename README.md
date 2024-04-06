@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sujin%20Oh&fontSize=70)
-<--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osjkate&show_icons=true&theme=tokyonight)-->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osjkate&show_icons=true&theme=tokyonight)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osjkate&layout=compact&theme=tokyonight)
 <!--
 **osjkate/osjkate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
