@@ -12,7 +12,7 @@
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
 <a href="mailto:osjkate611@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="www.linkedin.com/in/osjkate611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/osjkate611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
 <a href="https://www.instagram.com/_numbereal?igsh=MTh3dHV0OGg5eGVzcQ==/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 <a href="https://littlebitawesome.tistory.com/"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://littlebitawesome.tistory.com//"></a>&nbsp
 </p>
