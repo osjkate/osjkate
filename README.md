@@ -1,4 +1,8 @@
-<h3 align="center"><b>Skills</b></h3>
+<div align="center>
+<h3> 👻Hi! I'm SUJIN </h3>
+
+#
+### 📚Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp
@@ -9,7 +13,8 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
-<h3 align="center"><b>Contact</b></h3>
+#
+### 📞Contact</b></h3>
 <p align="center">
 <a href="mailto:osjkate611@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
 <a href="https://www.linkedin.com/in/osjkate611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
