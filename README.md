@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> 👻 Hi! I'm SUJIN </h3>
+  <h3> 👻 Hi! I'm Sujin </h3>
   
   #
   ### 📚 Skills
