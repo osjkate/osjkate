@@ -24,13 +24,9 @@
 
   #
   ### 📑 top langs
-  <p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osjkate&layout=compact&theme=tokyonight)
-  </p>
   
   #
   ### 💻 Back Joon
-  <p>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osjkate)](https://solved.ac/osjkate/)
-  </p>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osjkate)](https://solved.ac/osjkate/)
 </div>
