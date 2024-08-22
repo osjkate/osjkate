@@ -21,12 +21,4 @@
     <a href="https://www.instagram.com/_numbereal?igsh=MTh3dHV0OGg5eGVzcQ==/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
     <a href="https://littlebitawesome.tistory.com/"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://littlebitawesome.tistory.com//"></a>&nbsp
   </p>
-
-  #
-  ### 📑 top langs
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osjkate&layout=compact&theme=tokyonight)
-  
-  #
-  ### 💻 Back Joon
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=osjkate)](https://solved.ac/osjkate/)
 </div>
